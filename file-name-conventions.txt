@@ -1,0 +1,6 @@
+HTTP 5110
+
+File name conventions
+	1. No spaces between words - use hyphen
+	2. only lowercase
+	3. same folders
